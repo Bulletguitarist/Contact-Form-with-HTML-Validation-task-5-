@@ -12,7 +12,7 @@ The focus of this project is on **accessibility, clean UI, and correct form sema
 task5/
 │
 ├── contact.css
-├── contact.html
+├── index.html
 └── README.md
 
 ---
