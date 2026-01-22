@@ -1,4 +1,4 @@
-# Contact Form with HTML5 Validation
+# Contact Form with HTML Validation
 
 ## 📌 Project Overview
 This project demonstrates the creation of a **contact form using pure HTML and CSS** with **built-in HTML5 validation**.  
